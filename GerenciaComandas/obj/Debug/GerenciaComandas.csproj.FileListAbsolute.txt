@@ -1,0 +1,6 @@
+C:\Desenvolvimento\GerenciaComandas\GerenciaComandas\bin\Debug\GerenciaComandas.exe.config
+C:\Desenvolvimento\GerenciaComandas\GerenciaComandas\bin\Debug\GerenciaComandas.exe
+C:\Desenvolvimento\GerenciaComandas\GerenciaComandas\bin\Debug\GerenciaComandas.pdb
+C:\Desenvolvimento\GerenciaComandas\GerenciaComandas\obj\Debug\GerenciaComandas.csprojAssemblyReference.cache
+C:\Desenvolvimento\GerenciaComandas\GerenciaComandas\obj\Debug\GerenciaComandas.exe
+C:\Desenvolvimento\GerenciaComandas\GerenciaComandas\obj\Debug\GerenciaComandas.pdb
